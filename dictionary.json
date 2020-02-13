@@ -5,11 +5,20 @@
   "absurdjs": [
     "jstransformer-absurd"
   ],
+  "adoc": [
+    "jstransformer-asciidoctor"
+  ],
   "analyze-css": [
     "jstransformer-analyze-css"
   ],
   "arc-templates": [
     "jstransformer-consolidate"
+  ],
+  "asc": [
+    "jstransformer-asciidoctor"
+  ],
+  "asciidoc": [
+    "jstransformer-asciidoctor"
   ],
   "atpl": [
     "jstransformer-atpl",
